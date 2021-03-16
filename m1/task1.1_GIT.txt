@@ -1,0 +1,19 @@
+deafd20 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+b05a467 HEAD@{1}: checkout: moving from develop to master
+deafd20 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{2}: commit (merge): fixed merging develop and styles branches
+6f33bba (origin/images, images) HEAD@{3}: merge images: Fast-forward
+e273826 HEAD@{4}: checkout: moving from styles to develop
+71bc28c (origin/styles, styles) HEAD@{5}: commit: added .css file
+c997e18 HEAD@{6}: commit: added styles
+e273826 HEAD@{7}: checkout: moving from images to styles
+6f33bba (origin/images, images) HEAD@{8}: checkout: moving from styles to images
+e273826 HEAD@{9}: checkout: moving from develop to styles
+e273826 HEAD@{10}: checkout: moving from images to develop
+6f33bba (origin/images, images) HEAD@{11}: checkout: moving from develop to images
+e273826 HEAD@{12}: checkout: moving from images to develop
+6f33bba (origin/images, images) HEAD@{13}: commit: cahnges index.html file
+793d18f HEAD@{14}: commit: added images
+e273826 HEAD@{15}: checkout: moving from develop to images
+e273826 HEAD@{16}: commit: created index.htnl file
+b05a467 HEAD@{17}: checkout: moving from master to develop
+b05a467 HEAD@{18}: commit (initial): first commit
