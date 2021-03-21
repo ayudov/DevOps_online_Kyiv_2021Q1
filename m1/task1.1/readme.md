@@ -11,13 +11,20 @@ At the end I've pushed all local project to the GitHub.
 As I can judge so far, DevOps professionals are responsible for a whole lifetime of the project.
 They have to conduct the product from the very beginning and even after production.
 
+For DevOps, it is necessary to know how to use tools which will help him to handle it.
+
 ###### It consists of main stages:
 
 Delivery pipeline: **BUILD, TEST, RELEASE**
 
 Feedback Loop: **PLAN, MONITOR**
 
+What  Wikipedia says:
 
-![alt text](https://media1.tenor.com/images/467d353f7e2d43563ce13fddbb213709/tenor.gif?itemid=12136175)
+_DevOps is a set of practices that combines software development (Dev) 
+and IT operations (Ops). It aims to shorten the systems development life
+cycle and provide continuous delivery with high software quality.[1][2]
+DevOps is complementary with Agile software development; several DevOps aspects came from the Agile methodology._
+
 
 Andrii YUDOV
