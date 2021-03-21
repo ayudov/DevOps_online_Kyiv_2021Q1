@@ -54,3 +54,38 @@ In this case, device drivers are located inside the host operating system.
 In this case, the host operating system, like guest, runs in a virtual environment and is called the "parent".
 Only the parent operating system has access to the hardware, the daughter ones, in turn,
 can interact with the hardware only through the "parent".
+
+#PART 2. WORK WITH VIRTUALBOX
+
+As a raport I will provide screenshots with discription below.
+
+####1. First run VirtualBox and Virtual Machine (VM).
+
+Here You can see description of my VMs.
+
+![image](screenshots/2.png)
+_ayudov-PC_yudov_ (VM1, original)
+
+![image](screenshots/3.png)
+_ayudov-PC_yudov Clone_ (VM2, cloned)
+
+![image](screenshots/4.png)
+_ayudov-PC_yudov_imported_ (VM3, imported)
+
+![image](screenshots/6.png)
+_Snapshot's tree of VM1_
+
+![image](screenshots/5.png)
+_Exported VM1_
+
+####2. Configuration of virtual maxhines.
+
+![image](screenshots/7.png)
+![image](screenshots/8.png)
+_Mounted USB flash drive on VM1_
+
+![image](screenshots/10.png)
+![image](screenshots/9.png)
+_Shared folder Host -> VM1_
+
+Table of possible connections^
