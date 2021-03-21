@@ -88,4 +88,14 @@ _Mounted USB flash drive on VM1_
 ![image](screenshots/9.png)
 _Shared folder Host -> VM1_
 
-Table of possible connections^
+Table of possible connections:
+
+| Mode       | VM→Host | VM←Host | VM1↔VM2 | VM→Net&LAN | VM←Net&LAN |
+| :--------: | :-----: | :------:| :-----: | :--------: | :--------: |
+| Host-only  | + | + | + | - | - |
+| Bridged    | + | + | + | + | + |
+| Internal   | - | - | + | - | - |
+| NATservice | + | + | - | + | + |
+| NAT        | + | + | + | + | + |
+
+#PART 3. WORK WITH VARGANT
